@@ -13,7 +13,7 @@ p {
 }
 .box div {
   display: flex;
-  width: 50%;
+  width: 100%;
 }
 .box div img {
   width: 100%;
